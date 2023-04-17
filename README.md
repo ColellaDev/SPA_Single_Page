@@ -1,9 +1,7 @@
-# SPA - Single Page
+# SPA - Single Page Application
 ## Exercício  Rocketseat - Explorer
 
-
-
-
+O desafio consistia em criar uma pagina contendo o conceito SPA, que consiste em criar aplicações que operam em uma única página, sem a necessidade de carregar novas páginas para cada interação do usuário. A aplicação carrega uma única página inicial e usa JavaScript para atualizar dinamicamente os conteúdos da página em resposta às interações do usuário, no caso atráves dos links no menu superior.
 
 ### [Clique aqui para ver o projeto](https://colelladev.github.io/SPA_Single_Page/)
 
